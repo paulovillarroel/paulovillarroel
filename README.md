@@ -4,6 +4,7 @@
 - 🔥 I am the founder of [OpenSalud LAB](https://opensaludlab.org), an open innovation lab in public health from LATAM.
 - 🌱 I am currently focused on the inclusion of advanced data analytics and artificial intelligence in the healthcare field. 
 - ❤️ I like to teach about R programming.
+- 🐍 Learning Python.
 - 📫 How to contact me: www.linkedin.com/in/paulovillarroeltapia
 
 [![jhc twitter](https://img.shields.io/badge/Twitter-@chazkon-00aced.svg?style=flat&logo=twitter)](https://twitter.com/chazkon)
