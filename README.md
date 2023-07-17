@@ -10,3 +10,5 @@
 [![jhc twitter](https://img.shields.io/badge/Twitter-@chazkon-00aced.svg?style=flat&logo=twitter)](https://twitter.com/chazkon)
 [![jhc twitter](https://img.shields.io/badge/Twitter-@opensaludlab-00aced.svg?style=flat&logo=twitter)](https://twitter.com/opensaludlab)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X32N1GH)
